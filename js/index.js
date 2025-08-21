@@ -1,3 +1,4 @@
+// контейнеры
 let labelNode = document.querySelector('#label');
 let answerNode = document.querySelector(`#answer`);
 let stotyNode = document.querySelector(`#story`);
